@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4237694841	Play_foley_run			\Default Work Unit\Play_foley_run	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	943042610	marterial			\Default Work Unit\marterial	
+	2413944604	shoetype			\Default Work Unit\shoetype	
+
+Switch	ID	Name	Switch Group			Notes
+	2058049674	wood	marterial			
+	2144363834	rock	marterial			
+	2195636714	dirt	marterial			
+	4248645337	grass	marterial			
+	222212622	sneaker	shoetype			
+	3129509287	highheel	shoetype			
+
