@@ -1,0 +1,347 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3196207338",
+    "Type": "Event",
+    "GUID": "{F6D8A5AD-A949-4F49-B631-DA87C15558FE}",
+    "Language": "SFX",
+    "Hash": "{B9493137-BFC8-AD48-77AF-C76893038C1A}",
+    "ObjectPath": "Play_background",
+    "ShortName": "Play_background",
+    "Path": "Event/Play_background.bnk",
+    "Media": [
+     {
+      "Id": "6009765",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_01.wav",
+      "Path": "Media/6009765.wem",
+      "CachePath": "ED/{EDA2F633-B76F-DEDC-1B6F-F1E6F55EC052}.wem"
+     },
+     {
+      "Id": "50961396",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Wolf_Howl_01.wav",
+      "Path": "Media/50961396.wem",
+      "CachePath": "8C/{8C77875B-64E1-F38B-A2F3-3D8332BB84F4}.wem"
+     },
+     {
+      "Id": "56983279",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_2D_Wind_Gentle.wav",
+      "Path": "Media/56983279.wem",
+      "CachePath": "23/{23B6E538-6A67-6248-B6CE-254D454287B8}.wem"
+     },
+     {
+      "Id": "96420784",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_06.wav",
+      "Path": "Media/96420784.wem",
+      "CachePath": "D5/{D5D43805-A0FF-D5C4-0B43-02DB968E0203}.wem"
+     },
+     {
+      "Id": "109636250",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Bird_Owl_Hoot_05.wav",
+      "Path": "Media/109636250.wem",
+      "CachePath": "F3/{F3A52A4E-D74A-7783-55A4-372B10EE756F}.wem"
+     },
+     {
+      "Id": "111262583",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_05.wav",
+      "Path": "Media/111262583.wem",
+      "CachePath": "DF/{DFDF1D9E-8766-F2A4-14F6-D2C800EECE27}.wem"
+     },
+     {
+      "Id": "126681716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Insect_Cricket_01.wav",
+      "Path": "Media/126681716.wem",
+      "CachePath": "6E/{6E9041DE-BDC1-4496-7A90-930276ECE95B}.wem"
+     },
+     {
+      "Id": "150334973",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_2D_Insect_Group_Night.wav",
+      "Path": "Media/150334973.wem",
+      "CachePath": "07/{071AD3EA-664D-A8E5-46E8-2349BE61D800}.wem"
+     },
+     {
+      "Id": "208105355",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Wolf_Howl_02.wav",
+      "Path": "Media/208105355.wem",
+      "CachePath": "5C/{5CD09385-97D5-F1C9-0D86-8EB2704DFEDA}.wem"
+     },
+     {
+      "Id": "231918038",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_01.wav",
+      "Path": "Media/231918038.wem",
+      "CachePath": "E6/{E6FFB2A2-95E2-A022-D1DC-9458986835DE}.wem"
+     },
+     {
+      "Id": "312048322",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_04.wav",
+      "Path": "Media/312048322.wem",
+      "CachePath": "30/{301CEC67-081B-E473-29A1-265936B6F7BA}.wem"
+     },
+     {
+      "Id": "324418622",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_07.wav",
+      "Path": "Media/324418622.wem",
+      "CachePath": "20/{202B088D-D8FD-9562-E9DD-9616A779C0DA}.wem"
+     },
+     {
+      "Id": "422149479",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_08.wav",
+      "Path": "Media/422149479.wem",
+      "CachePath": "E8/{E874CFC5-6C25-6A88-CDCA-BE9DE0F5E643}.wem"
+     },
+     {
+      "Id": "539727937",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_05.wav",
+      "Path": "Media/539727937.wem",
+      "CachePath": "BB/{BBEE3157-4A72-F55D-5AC4-B925B981B1E1}.wem"
+     },
+     {
+      "Id": "543548207",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_04.wav",
+      "Path": "Media/543548207.wem",
+      "CachePath": "4F/{4F30D821-809B-A4E2-20DF-E78F98B40C46}.wem"
+     },
+     {
+      "Id": "608687655",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_09.wav",
+      "Path": "Media/608687655.wem",
+      "CachePath": "B9/{B920AEE3-D734-557A-4212-9D154B865B43}.wem"
+     },
+     {
+      "Id": "672638714",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_02.wav",
+      "Path": "Media/672638714.wem",
+      "CachePath": "24/{24D95F99-325B-0317-36DA-E209BF1F1DF1}.wem"
+     },
+     {
+      "Id": "684586518",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_09.wav",
+      "Path": "Media/684586518.wem",
+      "CachePath": "70/{70613ABF-56C9-393A-8185-DEB086AA684C}.wem"
+     },
+     {
+      "Id": "686045075",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_06.wav",
+      "Path": "Media/686045075.wem",
+      "CachePath": "9B/{9B8253F1-1D72-7D99-AAF1-66A3767EFFC2}.wem"
+     },
+     {
+      "Id": "807619386",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Water_Stream.wav",
+      "Path": "Media/807619386.wem",
+      "CachePath": "EF/{EF3905E9-BD5A-6968-2AE2-F702B17631AA}.wem"
+     },
+     {
+      "Id": "836263150",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Bird_Owl_Hoot_03.wav",
+      "Path": "Media/836263150.wem",
+      "CachePath": "6A/{6A3B735B-CAEB-D2F6-230D-5CCB3C1C1CBE}.wem"
+     },
+     {
+      "Id": "837550605",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_03.wav",
+      "Path": "Media/837550605.wem",
+      "CachePath": "EB/{EB52BD43-AE3A-1B2C-7507-B3053812D8EE}.wem"
+     },
+     {
+      "Id": "1004049774",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Rustle_08.wav",
+      "Path": "Media/1004049774.wem",
+      "CachePath": "15/{15E4DD08-2631-84EB-05E8-435B76D9A5AA}.wem"
+     },
+     {
+      "Id": "1047660500",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Tree_Crack_02.wav",
+      "Path": "Media/1047660500.wem",
+      "CachePath": "E0/{E0D58F94-3B60-7593-B18E-FA8B5EB55D36}.wem"
+     },
+     {
+      "Id": "1065414111",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Wolf_Howl_04.wav",
+      "Path": "Media/1065414111.wem",
+      "CachePath": "A2/{A23890B2-7F0E-EA70-4692-16811088EEB6}.wem"
+     },
+     {
+      "Id": "1071727370",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_3D_Bird_Owl_Hoot_01.wav",
+      "Path": "Media/1071727370.wem",
+      "CachePath": "00/{004E6667-91A1-6BCD-B12F-259EDB166DE4}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3196207338",
+      "Name": "Play_background",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_background",
+      "GUID": "{F6D8A5AD-A949-4F49-B631-DA87C15558FE}",
+      "MaxAttenuation": "6125",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "6009765"
+       },
+       {
+        "Id": "50961396"
+       },
+       {
+        "Id": "56983279"
+       },
+       {
+        "Id": "96420784"
+       },
+       {
+        "Id": "109636250"
+       },
+       {
+        "Id": "111262583"
+       },
+       {
+        "Id": "126681716"
+       },
+       {
+        "Id": "150334973"
+       },
+       {
+        "Id": "208105355"
+       },
+       {
+        "Id": "231918038"
+       },
+       {
+        "Id": "312048322"
+       },
+       {
+        "Id": "324418622"
+       },
+       {
+        "Id": "422149479"
+       },
+       {
+        "Id": "539727937"
+       },
+       {
+        "Id": "543548207"
+       },
+       {
+        "Id": "608687655"
+       },
+       {
+        "Id": "672638714"
+       },
+       {
+        "Id": "684586518"
+       },
+       {
+        "Id": "686045075"
+       },
+       {
+        "Id": "807619386"
+       },
+       {
+        "Id": "836263150"
+       },
+       {
+        "Id": "837550605"
+       },
+       {
+        "Id": "1004049774"
+       },
+       {
+        "Id": "1047660500"
+       },
+       {
+        "Id": "1065414111"
+       },
+       {
+        "Id": "1071727370"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{FC373CD9-064F-D811-2F59-72EF8F2187BC}"
+ }
+}

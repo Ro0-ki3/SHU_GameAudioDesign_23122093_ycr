@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3304247195",
+    "Type": "Bus",
+    "GUID": "{3F2FCDC1-CD92-4BE5-A595-C19FA9F54035}",
+    "Language": "SFX",
+    "Hash": "{42962ED9-65E7-C757-954D-27293C0D67AD}",
+    "ObjectPath": "reverb_int",
+    "ShortName": "reverb_int",
+    "Path": "Bus/reverb_int.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "484890516",
+       "Name": "Church_Small_Wood",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Cathedrals\\Church_Small_Wood",
+       "GUID": "{940CCB47-F031-4C6A-B0E6-726CAC418C02}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "3304247195",
+      "Name": "reverb_int",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\reverb\\reverb_int",
+      "GUID": "{3F2FCDC1-CD92-4BE5-A595-C19FA9F54035}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "484890516"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{34A84AE1-8968-BB1C-B6B6-26CBD8255F7A}"
+ }
+}

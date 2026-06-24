@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3502FBE0-B362-4180-A932-7E5E383DDA1E}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{3502FBE0-B362-4180-A932-7E5E383DDA1E}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="object" ID="{BB58DE9A-4E73-4FE8-A311-998A792D9053}" PersistMode="Reference"/>
+				<WorkUnit Name="bgm" ID="{1CECD16F-92A0-4FF6-BE50-F9BD6904CB89}" PersistMode="Reference"/>
+				<WorkUnit Name="player" ID="{F7CD39BA-161E-41D9-824F-3BE360C00FFD}" PersistMode="Reference"/>
+				<WorkUnit Name="noticevoice" ID="{5EB966CC-2241-4F92-9B62-4B07C87301C9}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
